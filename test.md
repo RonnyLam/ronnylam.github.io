@@ -1,0 +1,3 @@
+And this is a testpage, with an image...
+
+![Garbadge bin](https://a.rgbimg.com/users/j/jo/johnnyberg/600/o8j4edO.jpg)
